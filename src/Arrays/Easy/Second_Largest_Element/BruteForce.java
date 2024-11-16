@@ -18,10 +18,10 @@ public class BruteForce {
                 break;
             }
         }
-
-//    TC = N log(N) -- or -- N(log(N)+1) --> in worst case
-//    SC = O(1)
-
         System.out.println(secondLargest);
     }
 }
+
+
+//    TC = N log(N) -- or -- N(log(N)+1) --> in worst case
+//    SC = O(1)
