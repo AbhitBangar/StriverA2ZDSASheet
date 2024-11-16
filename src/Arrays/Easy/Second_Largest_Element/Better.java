@@ -21,3 +21,6 @@ public class Better {
         System.out.println(secondLargest);
     }
 }
+
+//    TC = O(2N) --> {O(N+N}
+//    SC = O(1)
