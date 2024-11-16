@@ -1,7 +1,7 @@
 
 package Arrays.Easy.Second_Largest_Element;
 import java.util.*;
-public class BruteForce {
+public class Naive {
     public static void main(String[] args) {
 
 //      BruteForce

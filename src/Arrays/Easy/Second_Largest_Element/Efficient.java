@@ -1,6 +1,6 @@
 package Arrays.Easy.Second_Largest_Element;
 
-public class Better {
+public class Efficient {
     public static void main(String[] args) {
         int[] arr = {8, 2, 2, 3, 10, 3, 4, 9, 12};
         int largest = arr[0];
