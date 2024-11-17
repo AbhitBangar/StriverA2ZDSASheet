@@ -22,6 +22,5 @@ public class Naive {
     }
 }
 
-
-//    TC = N log(N) -- or -- N(log(N)+1) --> in worst case
-//    SC = O(1)
+//  TC = N log(N) -- or -- N(log(N)+1) --> in worst case
+//  SC = O(1)
