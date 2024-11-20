@@ -19,5 +19,5 @@ public class Missing_Number_in_Array {
     }
 }
 
-//  TC = O(N*N) --> worst case when missing number is N itself, outerloop will run for N times
+//  TC = O(N*N) --> worst case when missing number is N itself, outer loop (also inner loop close to) will run for N times,
 //  SC = O(1)
