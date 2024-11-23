@@ -12,6 +12,7 @@ public class Missing_Number_in_Array {
                     break;
                 }
             }
+//      after completing inner for loop, if the checkingNumber is still zero --> the number simply not exists in array
             if(checkingNumber == 0) {
                 System.out.println(i);
             }

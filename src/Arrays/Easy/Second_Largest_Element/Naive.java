@@ -4,7 +4,7 @@ import java.util.*;
 public class Naive {
     public static void main(String[] args) {
 
-//      BruteForce
+//      Naive
         int[] arr = {8, 2, 2, 3, 10, 3, 4, 9};
 //        int[] arr = {1, 7, 7, 7, 7};
         Arrays.sort(arr);
